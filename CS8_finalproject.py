@@ -311,6 +311,3 @@ def days_remaining_3(grid):
                 return -1
 
     return num_days   #returns day when there are no humans left (no changes in the grid after a day)
-
-
-print(days_remaining_3([[1,1,1,0,1,2,3],[2,1,0,1,0,2,2],[0,0,0,0,1,0,0],[0,1,0,0,0,1,0]]))
