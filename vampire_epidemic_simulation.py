@@ -1,5 +1,3 @@
-# Sarah Liang, CS 8 (S21)
-
 def read_configuration(filename):
     '''
     Takes a filename as input and returns a list,
